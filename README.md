@@ -8,20 +8,20 @@ We are consultants hired by US-Health and Human Services to identify the reasons
 
 ## Data Understanding:
 We chose 34 independent variables and with refinement ended up with 14 variables. Those are as follows:
-* **Physically Unhealthy Days: Average number of reported physically unhealthy days per month
-* **% LBW: Percentage of births with low birth weight (<2500g)
-* **% Obese: Percentage of adults that report BMI >= 30
-* **Food Environment Index: Indicator of access to healthy foods - 0 is worst, 10 is best
-* **% Physically Inactive: Percentage of adults that report no leisure-time physical activity
-* **Chlamydia Rate: Chlamydia cases per 100,000 population
-* **Teen Birth Rate: Births per 1,000 females ages 15-19
-* **Preventable Hosp. Rate: Discharges for Ambulatory Care Sensitive Conditions per 100,000 Medicare Enrollees
-* **Income Ratio: Ratio of household income at the 80th percentile to income at the 20th percentile
-* **% Single-Parent Households: Number of children that live in single-parent households
-* **Injury Death Rate: Injury mortality rate per 100,000
-* **Average Daily PM2.5: Average daily amount of fine particulate matter in micrograms per cubic meter
-* **% Drive Alone: Percentage of workers who drive alone to work
-* **% Long Commute - Drives Alone: Among workers who commute in their car alone, the percentage that commute more than 30 minutes
+* **Physically Unhealthy Days: Average number of reported physically unhealthy days per month**
+* **% LBW: Percentage of births with low birth weight (<2500g)**
+* **% Obese: Percentage of adults that report BMI >= 30**
+* **Food Environment Index: Indicator of access to healthy foods - 0 is worst, 10 is best**
+* **% Physically Inactive: Percentage of adults that report no leisure-time physical activity**
+* **Chlamydia Rate: Chlamydia cases per 100,000 population**
+* **Teen Birth Rate: Births per 1,000 females ages 15-19**
+* **Preventable Hosp. Rate: Discharges for Ambulatory Care Sensitive Conditions per 100,000 Medicare Enrollees**
+* **Income Ratio: Ratio of household income at the 80th percentile to income at the 20th percentile**
+* **% Single-Parent Households: Number of children that live in single-parent households**
+* **Injury Death Rate: Injury mortality rate per 100,000**
+* **Average Daily PM2.5: Average daily amount of fine particulate matter in micrograms per cubic meter**
+* **% Drive Alone: Percentage of workers who drive alone to work**
+* **% Long Commute - Drives Alone: Among workers who commute in their car alone, the percentage that commute more than 30 minutes**
 
 Our target variable was **Years of Potential Life Lost Rate**, which is the Age-adjusted Years of Potential Life Lost rate per 100,000 i.e. cummulative sum of ages of individuals died before achieving life expectancy of 78.69 years.
 
